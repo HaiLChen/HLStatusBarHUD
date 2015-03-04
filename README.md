@@ -4,9 +4,9 @@
 
 ##一、说明
 ---
-1. `HLStatusBarHUD`是一个轻量级框架，对代码没有任何污染.
+* `HLStatusBarHUD`是一个轻量级框架，对代码没有任何污染.
 
-2. HLStatusBarHUD1.0版本版本有以下功能：
+* HLStatusBarHUD1.0版本版本有以下功能：
     * `显示成功信息`
     * `显示失败信息`
     * `显示加载信息`
@@ -14,9 +14,9 @@
 
 ##二、如何使用
 ---
-1. 将HLStatusBarHUD文件夹下面的所有文件添加到项目中即可.
+* 将HLStatusBarHUD文件夹下面的所有文件添加到项目中即可.
 
-2. 导入头文件：`#import "HLStatusBarHUD.h"`
+* 导入头文件：`#import "HLStatusBarHUD.h"`
 
 ##三、API使用示例
 ---
